@@ -1,0 +1,3 @@
+python3 network/network_classification.py
+sleep 5
+python3 encryption/entropy_calculator.py
